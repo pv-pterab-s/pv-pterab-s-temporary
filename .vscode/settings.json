@@ -7,5 +7,8 @@
     "code-runner.saveAllFilesBeforeRun": true,
     "code-runner.runInTerminal": true,
     "terminal.integrated.defaultProfile.linux": "/bin/bash",
-    "C_Cpp.debugShortcut": false
+    "C_Cpp.debugShortcut": false,
+    "files.associations": {
+        "array": "cpp"
+    }
 }
